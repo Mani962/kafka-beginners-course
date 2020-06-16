@@ -37,3 +37,7 @@ E
 +kafka-connect/connect-standalone.properties,7/5/757aa6ce83532258879900a67de5552949c8b61d
 P
  kafka-connect/twitter.properties,9/0/90e040970eaf1fc71c1fabd46d41bfecc24dd8d5
+S
+#kafka-streams-filter-tweets/pom.xml,9/8/98c2be7ed0cf846c2e73b1307e19f2f47cd41fb1
+è
+_kafka-streams-filter-tweets/src/main/java/com/ttn/mani/kafka/tutorial4/StreamsFilterTweets.java,5/f/5f50452182a9036afb13f45b284a0135a299b0ae
